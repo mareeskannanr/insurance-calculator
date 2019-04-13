@@ -1,6 +1,3 @@
-
-<h3><i>Full Stack Insurance Application using Spring Boot, React.js</i></h3>
-
 Imagine a modular insurance product. People can choose from 4 modules. Each module has a different
 selectable coverage and a different mathematical risk.
 These are the modules:<br /><br />
