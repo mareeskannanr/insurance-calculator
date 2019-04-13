@@ -13,3 +13,14 @@ The user should be able to select the coverage for each module and see the calcu
 the tariff, which is the individual configuration for each customer, should be calculated based on the risk:<br />
 <h4>[price] = [coverage]*[risk]</h4>
 The solution should store calculated prices and make them accessible via an endpoint.
+
+<hr />
+
+<p float='left'>
+    <img width="48%" height="300" src="snapshots/server/4.png">
+    <img width="48%" height="300" src="screenshots/server/5.png">
+</p>
+<p float='left'>
+    <img width="48%" height="300" src="snapshots/ui/1.png">
+    <img width="48%" height="300" src="snapshots/ui/6.png">
+</p>
