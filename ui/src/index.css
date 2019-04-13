@@ -1,0 +1,41 @@
+html, body {
+  height: 100vh;
+  background: #686767
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body {
+  background-color: #FFF;
+  padding: 10px;
+  min-height: 70vh;
+  min-width:75vw;
+}
+
+.card-body {
+  min-height: 70vh;
+}
+
+.insurance-type {
+  height: 15vh;
+  margin-bottom: 10px;
+}
+
+.model-name {
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+.coverage {
+  margin-left: 20px;
+}
+
+.pad {
+  padding-bottom: 10px;
+  padding-top: 10px; 
+}
