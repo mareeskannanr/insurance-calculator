@@ -18,6 +18,6 @@ The solution should store calculated prices and make them accessible via an endp
     <img width="48%" height="300" src="snapshots/server/5.png">
 </p>
 <p float='left'>
-    <img width="48%" height="300" src="snapshots/ui/1.png">
-    <img width="48%" height="300" src="snapshots/ui/6.png">
+    <img width="48%" height="300" src="snapshots/ui/1.jpg">
+    <img width="48%" height="300" src="snapshots/ui/6.jpg">
 </p>
